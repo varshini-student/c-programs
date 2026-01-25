@@ -1,3 +1,4 @@
+// declare an integer variable and print it
 #include <stdio.h>
 
 int main(){
