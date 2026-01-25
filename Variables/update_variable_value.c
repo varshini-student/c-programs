@@ -1,3 +1,4 @@
+// change variable value and and print updated value
 #include <stdio.h>
 
 int main(){
