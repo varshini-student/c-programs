@@ -1,3 +1,4 @@
+// declare two integer variables and print them
 #include <stdio.h>
 
 int main(){
