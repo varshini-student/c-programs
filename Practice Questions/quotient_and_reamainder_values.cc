@@ -7,5 +7,6 @@ int main()
    int b = 2;
    printf("Quotient=%d\n",a/b);
    printf("Remainder=%d",a%b);
+   return 0;
    
 }
