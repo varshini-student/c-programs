@@ -1,4 +1,4 @@
-// use -*
+// use *=
 #include <stdio.h>
 
 int main()
