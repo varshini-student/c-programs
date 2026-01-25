@@ -1,4 +1,4 @@
-// print a sstring along with a number
+// print a string along with a number
 #include <stdio.h>
 
 int main()
