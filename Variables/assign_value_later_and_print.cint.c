@@ -1,3 +1,4 @@
+// assigning value later and print
 #include <stdio.h>
 
 int main(){
