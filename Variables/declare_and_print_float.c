@@ -1,3 +1,4 @@
+// declare a float variable and print them
 #include <stdio.h>
 
 int main(){
