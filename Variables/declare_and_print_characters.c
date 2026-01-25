@@ -1,3 +1,4 @@
+// declare a character varible and print it
 #include <stdio.h>
 
 int main(){
