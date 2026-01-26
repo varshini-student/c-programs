@@ -1,3 +1,4 @@
+// day of week
 #include <stdio.h>
 
 int main(){
