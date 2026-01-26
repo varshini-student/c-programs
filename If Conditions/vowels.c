@@ -1,4 +1,4 @@
-// Check Leap year
+//  check vowels
 #include <stdio.h>
 
 int main() {
