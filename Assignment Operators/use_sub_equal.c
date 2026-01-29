@@ -7,7 +7,5 @@ int main()
   int b = 5;
   a-=b;
   printf("%d",a);
-  return 0;
-  
-   
+  return 0;  
 }
