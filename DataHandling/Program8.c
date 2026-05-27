@@ -1,4 +1,4 @@
-// print the total sum of thenumbers
+// print the fahrenheit value
 #include<stdio.h>
 int main(){
     float c,f;
