@@ -1,4 +1,4 @@
-array using count the positive numbers
+//array using count the positive numbers
 
 #include <stdio.h>
 int main(){
